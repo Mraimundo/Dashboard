@@ -1,6 +1,6 @@
 # Dashboard
 
-![expense](https://user-images.githubusercontent.com/53385345/151673848-388a5ba2-5837-4fb1-8fc0-8cb3fde5353b.png)
+![dashboard](https://user-images.githubusercontent.com/53385345/155231210-65603958-42c7-4a81-a113-a729c4244140.png)
 
 Dashboard construido com chakra ui e tem as categorias de Dashboard, Usuarios, Formulário e Automação.
 
