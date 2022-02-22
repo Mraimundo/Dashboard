@@ -16,7 +16,7 @@ Automação: Categoria de automação"
 
 ### Como clonar o projeto:
 Com o terminal escolha o local do destino do projeto:
-1. Execute no terminal o comando git clone https://github.com/Mraimundo/teste-frontend-oliveira-rondelli.git
+1. Execute no terminal o comando git clone https://github.com/Mraimundo/Dashboard.git
 2. Abra a pasta do projeto no terminal.
 3. Execute o comando code . para abrir o projeto no editor de codigo.
 
